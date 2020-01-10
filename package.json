@@ -26,7 +26,6 @@
     "clean": "gulp clean",
     "lint": "gulp lint",
     "build": "gulp build",
-    "prepack": "npm run build"
   },
   "repository": {
     "type": "git",
