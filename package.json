@@ -25,7 +25,7 @@
     "test:html": "gulp test:html",
     "clean": "gulp clean",
     "lint": "gulp lint",
-    "build": "gulp build",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
