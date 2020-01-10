@@ -47,7 +47,7 @@
   "homepage": "https://github.com/shrhdk/text-to-svg",
   "dependencies": {
     "commander": "^2.11.0",
-    "opentype.js": "1.1.0"
+    "opentype.js": "git://github.com/opentypejs/opentype.js.git"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
